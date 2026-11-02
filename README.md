@@ -1,4 +1,4 @@
-OrkaPlayer Linux v2.3 "Cortado"
+OrkaPlayer Linux v2.3 "Cortado-lin"
 Port nieoficjalny do aplikacji OrkaPlayer pod Linux napisany w 100% w Rust.
 Kompilowanie z źródła:
 Klonujesz repo (chyba wiesz jak to sie robi)
